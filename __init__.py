@@ -1,6 +1,6 @@
 # __init__.py
 
-from Transport import Transport
+from .Transport import Transport
 
 
 def create_instance(c_instance):
